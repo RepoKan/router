@@ -4,3 +4,7 @@
 # them in diffs and drops them from language stats; regenerate, don't hand-edit.
 internal/router/percallband/artifacts/** linguist-generated=true
 internal/router/percallband/testdata/** linguist-generated=true
+dist/** linguist-generated
+build/** linguist-generated
+coverage/** linguist-generated
+search/index.json linguist-generated
